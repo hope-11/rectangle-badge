@@ -1,16 +1,16 @@
 {
   "id": "hope-11-rectangle-badge",
   "displayName": "rectangle-badge 状态角标",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rectangle Badge 状态角标，纯CSS生成的有折叠效果的角标，可自定颜色、位置、尺寸等",
   "keywords": [
     "Badge",
-		"tag",
-		"状态",
-		"角标",
-		"徽章",
+    "tag",
+    "状态",
+    "角标",
+    "徽章"
 ],
-  "repository": "",
+  "repository": "https://github.com/hope-11/rectangle-badge.git",
   "engines": {
     "HBuilderX": "^3.1.0"
   },
@@ -28,9 +28,9 @@
       "qq": ""
     },
     "declaration": {
-      "ads": "",
-      "data": "",
-      "permissions": ""
+      "ads": "无",
+      "data": "插件不采集任何数据",
+      "permissions": "无"
     },
     "npmurl": ""
   },
@@ -39,14 +39,14 @@
     "encrypt": [],
     "platforms": {
       "cloud": {
-        "tcb": "u",
-        "aliyun": "u",
-        "alipay": "u"
+        "tcb": "y",
+        "aliyun": "y",
+        "alipay": "y"
       },
       "client": {
         "Vue": {
           "vue2": "u",
-          "vue3": "u"
+          "vue3": "y"
         },
         "App": {
           "app-vue": "u",
@@ -54,20 +54,20 @@
           "app-uvue": "u"
         },
         "H5-mobile": {
-          "Safari": "u",
-          "Android Browser": "u",
-          "微信浏览器(Android)": "u",
-          "QQ浏览器(Android)": "u"
+          "Safari": "y",
+          "Android Browser": "y",
+          "微信浏览器(Android)": "y",
+          "QQ浏览器(Android)": "y"
         },
         "H5-pc": {
-          "Chrome": "u",
-          "IE": "u",
-          "Edge": "u",
-          "Firefox": "u",
-          "Safari": "u"
+          "Chrome": "y",
+          "IE": "y",
+          "Edge": "y",
+          "Firefox": "y",
+          "Safari": "y"
         },
         "小程序": {
-          "微信": "u",
+          "微信": "y",
           "阿里": "u",
           "百度": "u",
           "字节跳动": "u",
