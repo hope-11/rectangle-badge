@@ -1,7 +1,7 @@
 {
   "id": "hope-11-rectangle-badge",
   "displayName": "rectangle-badge 状态角标",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Rectangle Badge 状态角标，纯CSS生成的有折叠效果的角标，可自定颜色、位置、尺寸等",
   "keywords": [
     "Badge",
